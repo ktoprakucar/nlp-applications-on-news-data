@@ -1,2 +1,2 @@
-# news-publisher-prediction
-an example to generate the model which predicts the publisher of an article
+# NLP applications on 143,000 articles from American publishers
+An example to apply bag of words, TF-IDF and world2vec methods on given kaggle data (https://www.kaggle.com/snapcrack/all-the-news)
